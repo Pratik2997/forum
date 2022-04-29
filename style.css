@@ -1,0 +1,13 @@
+.space{
+    max-width: 100%;
+    padding: 0;
+}
+.space p{
+    margin-bottom: 0;
+}
+.long{
+    min-height: 100vh !important;
+}
+nav span{
+    color: #fff;
+}
